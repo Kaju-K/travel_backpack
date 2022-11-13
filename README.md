@@ -1,6 +1,6 @@
 # Backpack for travelling
 
-This is a project from Alura to understand the concepts of Javascript.
+This is a project from Alura to understand the concepts of Javascript. The HTML and CSS were already ready.
 
 This project helps to understand how to create elements and use the LocalStorage to keep the information saved after the page is refreshed.
 
